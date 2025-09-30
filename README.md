@@ -95,7 +95,7 @@ chmod +x *.sh
 
 ## Roadmap
 
-### Planned Tools
+### Planned Tools (under consideration)
 - Key pair generation utilities
 - Transaction builders
 - Coin management tools
@@ -103,7 +103,7 @@ chmod +x *.sh
 - Merkle tree utilities
 - Signature verification tools
 
-### Planned Language Implementations
+### Planned Language Implementations (under consideration)
 - **PHP**: Web-friendly implementations for server-side applications
 - **Python**: Native Chia ecosystem integration
 - **JavaScript/TypeScript**: Browser and Node.js support
@@ -138,7 +138,7 @@ Contributions are welcome! Please feel free to submit pull requests, report bugs
 
 ## License
 
-[To be determined - suggest MIT or Apache 2.0]
+Apache 2.0
 
 ## Author
 
